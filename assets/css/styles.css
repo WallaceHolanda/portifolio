@@ -215,6 +215,10 @@ img {
     flex-direction: column;
 }
 
+.home__title-color {
+    color: var(--first-color);
+}
+
 .home__social-icon{
     width: max-content;
     margin-bottom: var(--mb-2);
@@ -249,5 +253,5 @@ img {
 }
 
 .button:hover {
-    box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 10px 36px rgba(27, 15, 15, 0.15);
 }
